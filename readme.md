@@ -6,7 +6,7 @@ However, what I disliked from the beginning was the scrolling
 behaviour of the header and the feed navigation,
 so I made some changes to the style to get a more *Google Reader* like feeling.
 
-![Modified rssLounge interface](rss-lounge-mod.jpg)
+![Modified rssLounge interface](https://raw.github.com/Akron/rssLounge-mod/master/rss-lounge-mod.jpg)
 
 I deactivated the priority stuff completely, as I don't use it.
 Overall it's not quite perfect - but works well for me.
