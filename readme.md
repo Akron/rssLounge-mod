@@ -1,14 +1,17 @@
 # Styling rssLounge
 
-I like [rssLounge][http://rsslounge.aditu.de/] a lot and I think, it's one of the best feed readers out there.
-However, what I disliked from the beginning was the scrolling behaviour of the header and the feed navigation, so I made some changes to the style to get a more *Google Reader* like feeling.
+I like [rssLounge](http://rsslounge.aditu.de/) a lot and
+I think it's one of the best feed readers out there!
+However, what I disliked from the beginning was the scrolling
+behaviour of the header and the feed navigation,
+so I made some changes to the style to get a more *Google Reader* like feeling.
 
-[[rss-lounge-mod.jpg]]
+![Modified rssLounge interface](rss-lounge-mod.jpg)
 
 I deactivated the priority stuff completely, as I don't use it.
 Overall it's not quite perfect - but works well for me.
 
-The following code should be appended to */public/stylesheet/all.css*
+The following code should be appended to `/public/stylesheet/all.css`
 in rssLounge 1.7. It's tested with recent versions of Firefox and Chrome.
 
 ## Stylesheet extension
