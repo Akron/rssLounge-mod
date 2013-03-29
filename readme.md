@@ -11,7 +11,7 @@ so I made some changes to the style to get a more *Google Reader* like feeling.
 I deactivated the priority stuff completely, as I don't use it.
 Overall it's not quite perfect - but works well for me.
 
-The following code should be appended to `/public/stylesheet/all.css`
+The following code should be appended to `/public/stylesheets/all.css`
 in rssLounge 1.7. It's tested with recent versions of Firefox and Chrome.
 
 ## Stylesheet extension
