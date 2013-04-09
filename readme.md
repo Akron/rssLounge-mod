@@ -23,7 +23,7 @@ in rssLounge 1.7. It's tested with recent versions of Firefox and Chrome.
       position: fixed;
 }
 
-#filter {
+#wrapper #filter {
   position: fixed;
   left: 260px;
   right: 70px;
@@ -133,7 +133,7 @@ body.small #filter #actions #unstarall {
   display: none;
 }
 
-body.small #filter {
+body.small #wrapper #filter {
   width: auto;
   left: 120px;
 }

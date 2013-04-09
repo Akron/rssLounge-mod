@@ -1,3 +1,6 @@
+0.03 2013-04-09
+        - Fixed small bug with double #filter ids.
+
 0.02 2013-03-30
         - Optimizations for small screens.
 	- Zebra Striping (egrath).
